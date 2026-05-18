@@ -28,7 +28,7 @@
 <p align="left">🌍 Sou de São Paulo, Brasil<br> 🎓 Formado em: Gestão em Tecnologia da Informação <br>🎓 Desenvolvedor Web.NET (Cursando)<br>🎓 Desenvolvedor de Sites com HTML, CSS e JavaScript<br>⚡ PROANO<br>✨ Criando projetos para aprimorar minhas habilidades</p>
 
 
-<h3 align="center">🛠️ Languagens e Ferramentas</h3>
+<h3 align="center">🛠️ Linguagens e Ferramentas</h3>
 
 ###
 <div align-content="center">
